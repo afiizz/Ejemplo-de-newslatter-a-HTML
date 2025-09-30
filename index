@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Newsletter</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;">
+
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color: #f4f4f4;">
+        <tr>
+            <td align="center" style="padding: 20px 0;">
+                <!-- Encabezado -->
+                <table width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="#" alt="Logo de la empresa" width="150" height="50" style="display: block; border: 0;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding: 20px 30px; font-size: 24px; font-weight: bold; color: #333333;">
+                            Título de tu Newsletter
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" style="padding: 0 30px 20px 30px; font-size: 16px; line-height: 1.6; color: #555555;">
+                            ¡Hola!<br><br>
+                            Este es un ejemplo de un newsletter en HTML. Aquí puedes encontrar las últimas noticias, ofertas especiales o contenido interesante sobre nuestra empresa [...]
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding: 0 30px 20px 30px;">
+                            <img src="#" alt="Imagen principal" width="540" height="200" style="display: block; border-radius: 5px; border: 0;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding: 0 30px 30px 30px;">
+                            <a href="#" target="_blank" style="display: inline-block; background-color: #007bff; color: #ffffff; padding: 10px 25px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+                                Más Información
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
